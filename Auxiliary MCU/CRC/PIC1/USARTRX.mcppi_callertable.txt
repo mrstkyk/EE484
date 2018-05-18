@@ -1,0 +1,13 @@
+main
+	__CC2DW
+	Lcd_Init
+		Delay_5500us
+		Delay_1us
+	UART1_Init
+interrupt
+	UART1_Read_Text
+		UART1_Data_Ready
+		UART1_Read
+	UART1_Write_Text
+		UART1_Write
+	UART1_Write

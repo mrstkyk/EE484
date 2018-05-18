@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -L -DL -O11111114 -fo20 -N"C:\Users\infcomp1\Desktop\GPS\GPS.mcppi" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\infcomp1\Desktop\GPS\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for PIC\Packages\mikroBUS Board Definition API\Uses\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for PIC\Packages\FAT32 Library\Uses\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for PIC\Packages\FT800\Uses\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for PIC\Packages\FT810\Uses\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for PIC\Packages\FT812\Uses\" -IP"F:\Portable Programs\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\infcomp1\Desktop\GPS\" "GPS.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Button.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_D.mcl" "__Lib_I2C_c34.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	GPS.c
+diagnostics: 106	123	Compiled Successfully	GPS.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 859 (57%)  Free RAM (bytes): 656 (43%)	Used RAM (bytes): 859 (57%)  Free RAM (bytes): 656 (43%)
+hint: 0	1144	Used ROM (bytes): 1822 (6%)  Free ROM (bytes): 30946 (94%)	Used ROM (bytes): 1822 (6%)  Free ROM (bytes): 30946 (94%)
+diagnostics: 0	125	Project Linked Successfully	GPS.mcppi
+diagnostics: 0	128	Linked in 422 ms	 
+diagnostics: 0	129	Project 'GPS.mcppi' completed: 562 ms	 
+diagnostics: 0	103	Finished successfully: 18 May 2018, 08:02:50	GPS.mcppi

@@ -1,0 +1,78 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F407VG -BIN -LHF -DL -SSA -O11111114 -fo168 -N"F:\Workspace\Projeler\IHA\MPU6050\STM32F407_MikroC\MPU6050.mcpar" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" -SP"F:\Workspace\Projeler\IHA\MPU6050\STM32F407_MikroC\" -SP"F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FAT32 Library\Uses\" -SP"F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT800\Uses\" -SP"F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT810\Uses\" -SP"F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT812\Uses\" -SP"F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\Memory manager dlmalloc\Uses\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Packages\FAT32 Library\Uses\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Packages\FT800\Uses\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Packages\FT810\Uses\" -SP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Packages\FT812\Uses\" -IP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Uses\TI M3\" -IP"F:\Workspace\Projeler\IHA\MPU6050\STM32F407_MikroC\" -IP"F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FAT32 Library\Uses\" -IP"F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT800\Uses\" -IP"F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT810\Uses\" -IP"F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT812\Uses\" -IP"F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\Memory manager dlmalloc\Uses\" -IP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Packages\FAT32 Library\Uses\" -IP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Packages\FT800\Uses\" -IP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Packages\FT810\Uses\" -IP"F:\Portable Programs\Mikroelektronika\mikroC PRO for ARM\Packages\FT812\Uses\" "main.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_4XX.emcl" "__Lib_GPIO_32F4xx_Defs.emcl" "__Lib_GPIO_32F4xx.emcl" "__Lib_CType.emcl" "__Lib_CString.emcl" "__Lib_CStdlib.emcl" "__Lib_CMath.emcl" "__Lib_MemManager.emcl" "__Lib_Conversions.emcl" "__Lib_Sprintf.emcl" "__Lib_PrintOut.emcl" "__Lib_Sprinti.emcl" "__Lib_Sprintl.emcl" "__Lib_Time.emcl" "__Lib_Trigonometry.emcl" "__Lib_Button.emcl" "__Lib_Keypad4x4.emcl" "__Lib_Manchester.emcl" "__Lib_OneWire.emcl" "__Lib_PS2.emcl" "__Lib_Sound.emcl" "__Lib_SoftI2C.emcl" "__Lib_SoftSPI.emcl" "__Lib_SoftUART.emcl" "__Lib_ADC_123_32F20x_16ch.emcl" "__Lib_Ethernet_Intern.emcl" "__Lib_FLASH_32F20x_40x_1024.emcl" "__Lib_I2C_123.emcl" "__Lib_PWM_1234589_12_10_11_13_14.emcl" "__Lib_SPI_123.emcl" "__Lib_UART_123_45_6.emcl" "__Lib_CAN_12.emcl" "__Lib_DAC_12.emcl" "__Lib_USB_32F4xx.emcl" "__Lib_SDIO.emcl" "__Lib_PortExpander.emcl" "__Lib_CANSPI.emcl" "__Lib_CF.emcl" "__Lib_CFFat16.emcl" "__Lib_GlcdFonts.emcl" "__Lib_Glcd.emcl" "__Lib_LcdConsts.emcl" "__Lib_Lcd.emcl" "__Lib_Mmc_SDIO.emcl" "__Lib_MmcFat16.emcl" "__Lib_MmcFat16Constants.emcl" "__Lib_RS485.emcl" "__Lib_S1D13700.emcl" "__Lib_T6963C.emcl" "__Lib_SPIGlcd.emcl" "__Lib_SPILcd.emcl" "__Lib_SPILcd8.emcl" "__Lib_SPIT6963C.emcl" "__Lib_EthEnc28j60.emcl" "__Lib_EthEnc24j600.emcl" "__Lib_TFT.emcl" "__Lib_TFT_Defs.emcl" "__Lib_TouchPanel_TFT.emcl" "__Lib_TouchPanel.emcl" "__Lib_Vectors.emcl" "__Lib_Matrices.emcl" "__Lib_IIR.emcl" "__Lib_FIR.emcl" "__Lib_FFT.emcl" "__Lib_Q15.emcl" "__Lib_Q31.emcl" "__Lib_STMPE610.emcl" "__Lib_TSC2006.emcl" "__Lib_FAT32_Defs_STM32_M3_M4_M7.emcl" "__Lib_FAT32_Driver_STM32_M3_M4_M7.emcl" "__Lib_FAT32_STM32_M3_M4_M7.emcl" "__Lib_FT800_Defs_STM32.emcl" "__Lib_FT800_STM32.emcl" "__Lib_FT810_Defs_STM32.emcl" "__Lib_FT810_STM32.emcl" "__Lib_FT812_Defs_STM32.emcl" "__Lib_FT812_STM32.emcl"	 
+warning: 0	1501	Specified search path does not exist: 'F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FAT32 Library\Uses'	 
+warning: 0	1501	Specified search path does not exist: 'F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT800\Uses'	 
+warning: 0	1501	Specified search path does not exist: 'F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT810\Uses'	 
+warning: 0	1501	Specified search path does not exist: 'F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT812\Uses'	 
+warning: 0	1501	Specified search path does not exist: 'F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\Memory manager dlmalloc\Uses'	 
+warning: 0	1502	Specified include path does not exist: 'F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FAT32 Library\Uses'	 
+warning: 0	1502	Specified include path does not exist: 'F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT800\Uses'	 
+warning: 0	1502	Specified include path does not exist: 'F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT810\Uses'	 
+warning: 0	1502	Specified include path does not exist: 'F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT812\Uses'	 
+warning: 0	1502	Specified include path does not exist: 'F:\Workspace\Projeler\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\Memory manager dlmalloc\Uses'	 
+diagnostics: 0	122	Compilation Started	STM32F407VG.c
+diagnostics: 58985	123	Compiled Successfully	STM32F407VG.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 119	123	Compiled Successfully	__Lib_Delays.c
+hint: 66	1164	Variable 'cycles_div_by_10' has been eliminated by optimizer	__Lib_Delays.c
+hint: 88	1164	Variable 'NumberOfCyc' has been eliminated by optimizer	__Lib_Delays.c
+hint: 105	1164	Variable 'NumberOfCyc' has been eliminated by optimizer	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	__lib_gpio.h
+diagnostics: 874	123	Compiled Successfully	__Lib_GPIO_32F4xx_Defs.c
+diagnostics: 0	122	Compilation Started	__Lib_MemManager.c
+warning: 36	1508	Implicit conversion of int to ptr	__Lib_MemManager.c
+warning: 157	1506	Implicit conversion of pointer to int	__Lib_MemManager.c
+warning: 176	1508	Implicit conversion of int to ptr	__Lib_MemManager.c
+diagnostics: 299	123	Compiled Successfully	__Lib_MemManager.c
+diagnostics: 0	122	Compilation Started	__Lib_GlcdFonts.c
+diagnostics: 1209	123	Compiled Successfully	__Lib_GlcdFonts.c
+diagnostics: 0	122	Compilation Started	__Lib_MmcFat16Constants.c
+diagnostics: 73	123	Compiled Successfully	__Lib_MmcFat16Constants.c
+diagnostics: 0	122	Compilation Started	__Lib_TFT_Defs.c
+warning: 110	1508	Implicit conversion of int to ptr	__Lib_TFT_Defs.c
+warning: 122	1508	Implicit conversion of int to ptr	__Lib_TFT_Defs.c
+warning: 134	1508	Implicit conversion of int to ptr	__Lib_TFT_Defs.c
+warning: 146	1508	Implicit conversion of int to ptr	__Lib_TFT_Defs.c
+warning: 155	1508	Implicit conversion of int to ptr	__Lib_TFT_Defs.c
+warning: 172	1508	Implicit conversion of int to ptr	__Lib_TFT_Defs.c
+warning: 186	1508	Implicit conversion of int to ptr	__Lib_TFT_Defs.c
+diagnostics: 3529	123	Compiled Successfully	__Lib_TFT_Defs.c
+hint: 51	1164	Variable 'temp' has been eliminated by optimizer	__Lib_TFT_Defs.c
+diagnostics: 0	122	Compilation Started	__lib_fat32.h
+diagnostics: 105	123	Compiled Successfully	__Lib_FAT32_Defs_STM32_M3_M4_M7.c
+diagnostics: 0	122	Compilation Started	__lib_fat32.h
+diagnostics: 298	123	Compiled Successfully	__Lib_FAT32_Driver_STM32_M3_M4_M7.c
+hint: 87	1164	Variable 'c_size' has been eliminated by optimizer	__Lib_FAT32_Driver_STM32_M3_M4_M7.c
+hint: 87	1164	Variable 'c_size_mult' has been eliminated by optimizer	__Lib_FAT32_Driver_STM32_M3_M4_M7.c
+hint: 89	1164	Variable 'blocknr' has been eliminated by optimizer	__Lib_FAT32_Driver_STM32_M3_M4_M7.c
+diagnostics: 0	122	Compilation Started	ft800_types.h
+diagnostics: 582	123	Compiled Successfully	__Lib_FT800_Defs_STM32.c
+diagnostics: 0	122	Compilation Started	ft810_types.h
+diagnostics: 631	123	Compiled Successfully	__Lib_FT810_Defs_STM32.c
+diagnostics: 0	122	Compilation Started	ft812_types.h
+diagnostics: 631	123	Compiled Successfully	__Lib_FT812_Defs_STM32.c
+diagnostics: 0	122	Compilation Started	mpu6050_i2c1.h
+diagnostics: 28	123	Compiled Successfully	main.c
+hint: 6	1164	Variable 'err' has been eliminated by optimizer	main.c
+hint: 25	1164	Variable 'gyrox' has been eliminated by optimizer	main.c
+hint: 25	1164	Variable 'gyroy' has been eliminated by optimizer	main.c
+hint: 25	1164	Variable 'gyroz' has been eliminated by optimizer	main.c
+hint: 25	1164	Variable 'counter' has been eliminated by optimizer	main.c
+hint: 27	1164	Variable 'grx' has been eliminated by optimizer	main.c
+hint: 27	1164	Variable 'gry' has been eliminated by optimizer	main.c
+hint: 27	1164	Variable 'grz' has been eliminated by optimizer	main.c
+hint: 27	1164	Variable 'gsx' has been eliminated by optimizer	main.c
+hint: 27	1164	Variable 'gsy' has been eliminated by optimizer	main.c
+hint: 27	1164	Variable 'gsz' has been eliminated by optimizer	main.c
+hint: 30	1164	Variable 'timeStep' has been eliminated by optimizer	main.c
+hint: 30	1164	Variable 'time' has been eliminated by optimizer	main.c
+hint: 30	1164	Variable 'timePrev' has been eliminated by optimizer	main.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 797	1004	Variable Ethernet_Intern_TX_Dscs has been declared, but not used	__Lib_Ethernet_Intern.c
+hint: 802	1004	Variable Ethernet_Intern_RX_Dscs has been declared, but not used	__Lib_Ethernet_Intern.c
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 119   Dynamic RAM (bytes): 130949	Static RAM (bytes): 119   Dynamic RAM (bytes): 130949
+hint: 0	1144	Used ROM (bytes): 5760 (1%)  Free ROM (bytes): 1042816 (99%)	Used ROM (bytes): 5760 (1%)  Free ROM (bytes): 1042816 (99%)
+diagnostics: 0	125	Project Linked Successfully	MPU6050.mcpar
+diagnostics: 0	128	Linked in 1297 ms	 
+diagnostics: 0	129	Project 'MPU6050.mcpar' completed: 4282 ms	 
+diagnostics: 0	103	Finished successfully: 17 May 2018, 03:44:32	MPU6050.mcpar
